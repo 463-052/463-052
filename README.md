@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @463-052
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Machine-Learning
-- 📫 How to reach me sonhyundong@gmail.com
+- 📫 How to reach me sonhyundong10@gmail.com
 
 <!---
 463-052/463-052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
